@@ -31,6 +31,18 @@ public class Readme {
         7.- Nombre del Archivo CSV
         8.- Agregar Elementos Iniciales al tablero.
 
+        ++++++++++++++++++++++++++++
+        +++ EJECUTAR EL PROGRAMA +++
+        ++++++++++++++++++++++++++++
+        Para dar inicio al programa se debe:
+        1.- Establecer la configuración inicial en: CLASE CONFIGURACIONES
+        2.- Ejecutar el método MAIN en la CLASE AUTOMATACELULAR
 
-     */
+        En la pantalla se apreciarán los movimientos del tablero y en el archivo CSV se podrá apreciar
+        la bitácora de acuerdo a la especificaciones proporcionadas por el profesor.
+
+
+
+
+   */
 }
